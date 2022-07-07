@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\bin\Debug\net6.0\SwitchCasePrac.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\bin\Debug\net6.0\SwitchCasePrac.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\bin\Debug\net6.0\SwitchCasePrac.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\bin\Debug\net6.0\SwitchCasePrac.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\bin\Debug\net6.0\SwitchCasePrac.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\refint\SwitchCasePrac.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\SwitchCasePrac.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\SwitchCasePrac\SwitchCasePrac\obj\Debug\net6.0\ref\SwitchCasePrac.dll
